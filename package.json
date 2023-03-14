@@ -1,0 +1,20 @@
+{
+  "name": "Estrutura-de-dados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janderteodoro/Estrutura-de-dados.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janderteodoro/Estrutura-de-dados/issues"
+  },
+  "homepage": "https://github.com/janderteodoro/Estrutura-de-dados#readme"
+}
